@@ -7,9 +7,9 @@ public class Main
         double interestCost1m = preInterest * interstRate;
         double interestCost2m = preInterest * interstRate;
 
-        System.out.println("balance after one month is" + interestCost1m);
+        System.out.println("balance after one month is " + interestCost1m);
 
-        System.out.println("balance after two months is" + interestCost2m);
+        System.out.println("balance after two months is " + interestCost2m);
 
     }
 }
